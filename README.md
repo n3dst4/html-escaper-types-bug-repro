@@ -1,5 +1,11 @@
 # @types/html-escaper 3.0.3 bug repro
 
+I believe the `exports` field added to `@types/html-escaper` in [fix(html-escaper): fix FalseCJS by introducing export map for cjs & esm](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71746) is causing a resolution issue.
+
+[Repository](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/html-escaper).
+
+## Steps
+
 1. Clone this repo
 2. `pnpm install`
 3. `pnpm run typecheck`
