@@ -1,0 +1,41 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      html-escaper:
+        specifier: ^3.0.3
+        version: 3.0.3
+    devDependencies:
+      '@types/html-escaper':
+        specifier: ^3.0.3
+        version: 3.0.3
+      typescript:
+        specifier: ^5.7.3
+        version: 5.7.3
+
+packages:
+
+  '@types/html-escaper@3.0.3':
+    resolution: {integrity: sha512-nGFINiojbz41NZRuL1dHww4T7ZNFC+Vk46R/wsBmbfUitsovLDqJ8HwCrwCyiWud2GDgH22deYokbkktLYEaeQ==}
+
+  html-escaper@3.0.3:
+    resolution: {integrity: sha512-RuMffC89BOWQoY0WKGpIhn5gX3iI54O6nRA0yC124NYVtzjmFWBIiFd8M0x+ZdX0P9R4lADg1mgP8C7PxGOWuQ==}
+
+  typescript@5.7.3:
+    resolution: {integrity: sha512-84MVSjMEHP+FQRPy3pX9sTVV/INIex71s9TL2Gm5FG/WG1SqXeKyZ0k7/blY/4FdOzI12CBy1vGc4og/eus0fw==}
+    engines: {node: '>=14.17'}
+    hasBin: true
+
+snapshots:
+
+  '@types/html-escaper@3.0.3': {}
+
+  html-escaper@3.0.3: {}
+
+  typescript@5.7.3: {}
