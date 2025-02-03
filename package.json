@@ -11,7 +11,7 @@
   "license": "ISC",
   "packageManager": "pnpm@9.15.5+sha1.cb1f6372ef64e2ba352f2f46325adead1c99ff8f",
   "devDependencies": {
-    "@types/html-escaper": "^3.0.3",
+    "@types/html-escaper": "^3.0.2",
     "typescript": "^5.7.3"
   },
   "dependencies": {

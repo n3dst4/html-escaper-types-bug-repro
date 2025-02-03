@@ -13,16 +13,16 @@ importers:
         version: 3.0.3
     devDependencies:
       '@types/html-escaper':
-        specifier: ^3.0.3
-        version: 3.0.3
+        specifier: ^3.0.2
+        version: 3.0.2
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
 
 packages:
 
-  '@types/html-escaper@3.0.3':
-    resolution: {integrity: sha512-nGFINiojbz41NZRuL1dHww4T7ZNFC+Vk46R/wsBmbfUitsovLDqJ8HwCrwCyiWud2GDgH22deYokbkktLYEaeQ==}
+  '@types/html-escaper@3.0.2':
+    resolution: {integrity: sha512-A8vk09eyYzk8J/lFO4OUMKCmRN0rRzfZf4n3Olwapgox/PtTiU8zPYlL1UEkJ/WeHvV6v9Xnj3o/705PKz9r4Q==}
 
   html-escaper@3.0.3:
     resolution: {integrity: sha512-RuMffC89BOWQoY0WKGpIhn5gX3iI54O6nRA0yC124NYVtzjmFWBIiFd8M0x+ZdX0P9R4lADg1mgP8C7PxGOWuQ==}
@@ -34,7 +34,7 @@ packages:
 
 snapshots:
 
-  '@types/html-escaper@3.0.3': {}
+  '@types/html-escaper@3.0.2': {}
 
   html-escaper@3.0.3: {}
 
