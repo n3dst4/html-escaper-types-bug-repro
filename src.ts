@@ -1,3 +1,3 @@
-import { escape as escapeText } from "html-escaper";
+import { escape } from "html-escaper";
 
-console.log(escapeText("Hello <script>alert('XSS')</script>"));
+console.log(escape("Hello <script>alert('XSS')</script>"));
