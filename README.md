@@ -22,3 +22,8 @@ src.ts:1:38 - error TS7016: Could not find a declaration file for module 'html-e
 Found 1 error in src.ts:1
 ```
 
+To check with @types/html-escaper@3.0.2:
+
+1. `git switch 3.0.2`
+2. `pnpm install`
+3. `pnpm typecheck`
