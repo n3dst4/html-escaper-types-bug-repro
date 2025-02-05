@@ -4,6 +4,10 @@ I believe the `exports` field added to `@types/html-escaper` in [fix(html-escape
 
 [Repository](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/html-escaper).
 
+## Update
+
+Fixed in https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71820
+
 ## Steps
 
 1. Clone this repo
